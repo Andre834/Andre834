@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name is Santiago Santos, I'm from Brazil 🇧🇷 I'm a programming student, passionate about technology, always open to new challenges and learning
+My name is Andre Santos, I'm from Brazil 🇧🇷 I'm a programming student, passionate about technology, always open to new challenges and learning
 
 
 
