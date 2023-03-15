@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name is Andre Santos, I'm from Brazil 🇧🇷 I'm a programming student, passionate about technology, always open to new challenges and learning
+Meu Nome é Andre Oliveira, podem me chamar de Oliveira, sou brasileiro , paraensse , estudande de Engeharia de Software e apaixonado por tecnologias.
 
 
 
